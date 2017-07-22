@@ -1,3 +1,0 @@
-day1.csv
-day2.csv
-day3.csv
